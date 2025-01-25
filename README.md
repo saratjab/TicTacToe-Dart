@@ -11,12 +11,13 @@ This is a simple two-player console-based Tic-Tac-Toe game implemented in Dart. 
 ## Game Instructions:
 - Players take turns entering a number (1-9) to place their symbol on the grid.
 - The grid positions correspond to the following layout:
+```
  1 | 2 | 3
 ---+---+---
  4 | 5 | 6
 ---+---+---
  7 | 8 | 9
-
+```
 ## The game ends when:
 - A player achieves three symbols in a row (horizontally, vertically, or diagonally)
 - All positions are filled, resulting in a tie.
