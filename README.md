@@ -8,7 +8,6 @@ This is a simple two-player console-based Tic-Tac-Toe game implemented in Dart. 
 - Handles invalid inputs (e.g., positions already taken or non-numeric input).
 - Provides an option to restart the game after it concludes.
 
-
 Game Instructions:
 -Players take turns entering a number (1-9) to place their symbol on the grid.
 -The grid positions correspond to the following layout:
